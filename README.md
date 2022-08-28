@@ -1,1 +1,4 @@
 # mcis6273-F22-datamining
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse luctus nibh nec molestie fermentum. Vestibulum vulputate, orci eu sodales molestie, lacus ipsum suscipit arcu, id malesuada sapien arcu quis orci. Nunc ornare id ligula eu volutpat. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed et euismod lectus. Fusce ultricies mi quis consequat hendrerit. Integer consequat lorem ligula, id consectetur justo tempus ut. Etiam elit purus, imperdiet ut ipsum sed, feugiat facilisis nisl. Aenean id ligula bibendum, pretium ex id, cursus nunc. Donec enim metus, sodales vel ultricies sed, lacinia et felis. Vivamus placerat erat ut blandit sollicitudin. Nunc non egestas metus, accumsan condimentum nisl.
+
+https://github.com/AiluriInduReddy/mcis6273-F22-datamining
